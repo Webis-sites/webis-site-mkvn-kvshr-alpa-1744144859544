@@ -22,6 +22,13 @@
 
   --shadow-neumorphic: 20px 20px 60px rgba(0, 0, 0, 0.05), -20px -20px 60px rgba(255, 255, 255, 0.8);
   --shadow-neumorphic-button: 0 10px 15px -3px rgba(150, 206, 180, 0.3), 0 4px 6px -4px rgba(150, 206, 180, 0.2);
+
+  --card-border-radius: 1.25rem;
+  --neumorphic-shadow-light: 8px 8px 16px rgba(174, 174, 192, 0.4), -8px -8px 16px rgba(255, 255, 255, 0.7);
+  --neumorphic-shadow-dark: 8px 8px 16px rgba(174, 174, 192, 0.6), -8px -8px 16px rgba(255, 255, 255, 0.5);
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.5);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
 }
 
 html {
