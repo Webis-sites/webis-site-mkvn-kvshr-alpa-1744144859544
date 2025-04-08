@@ -1,8 +1,11 @@
 {
-  "projectName": "מכון-כושר-אלפא-4859",
-  "businessName": "מכון כושר אלפא",
-  "created": "2025-04-08T20:40:59.676Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-08T20:41:26.673Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-mkvn-kvshr-alpa-1744144859544"
 }
