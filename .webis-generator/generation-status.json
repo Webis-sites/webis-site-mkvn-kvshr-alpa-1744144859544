@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-08T20:51:59.930Z",
+  "timestamp": "2025-04-08T20:52:49.284Z",
   "status": {
     "totalComponents": 16,
-    "completedComponents": 10,
+    "completedComponents": 11,
     "failedComponents": 0,
-    "progress": 63
+    "progress": 69
   },
   "components": [
     {
@@ -70,7 +70,7 @@
     {
       "name": "FAQSection",
       "type": "faq",
-      "status": "pending",
+      "status": "completed",
       "description": "Frequently asked questions about the gym"
     },
     {
