@@ -10,6 +10,7 @@ import MembershipPlans from '../components/MembershipPlans';
 import TrainersSection from '../components/TrainersSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import ClassSchedule from '../components/ClassSchedule';
+import BookingSection from '../components/BookingSection';
 
 export default function HomePage() {
   return (
@@ -25,6 +26,7 @@ export default function HomePage() {
     <TrainersSection />
     <TestimonialsSection />
     <ClassSchedule />
+    <BookingSection />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
