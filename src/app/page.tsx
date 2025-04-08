@@ -13,6 +13,7 @@ import ClassSchedule from '../components/ClassSchedule';
 import BookingSection from '../components/BookingSection';
 import FAQSection from '../components/FAQSection';
 import LocationMap from '../components/LocationMap';
+import CTASection from '../components/CTASection';
 
 export default function HomePage() {
   return (
@@ -31,6 +32,7 @@ export default function HomePage() {
     <BookingSection />
     <FAQSection />
     <LocationMap />
+    <CTASection />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
