@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-08T20:44:36.638Z",
+  "timestamp": "2025-04-08T20:45:11.608Z",
   "status": {
     "totalComponents": 16,
-    "completedComponents": 3,
+    "completedComponents": 4,
     "failedComponents": 0,
-    "progress": 19
+    "progress": 25
   },
   "components": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "AboutSection",
       "type": "about",
-      "status": "pending",
+      "status": "completed",
       "description": "About the gym, its history, values and expertise"
     },
     {
