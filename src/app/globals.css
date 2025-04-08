@@ -47,6 +47,9 @@
   --neumorphic-dark-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.05);
   --neumorphic-inset-light: inset 3px 3px 6px rgba(0, 0, 0, 0.1), inset -3px -3px 6px rgba(255, 255, 255, 0.7);
   --neumorphic-inset-dark: inset 3px 3px 6px rgba(0, 0, 0, 0.3), inset -3px -3px 6px rgba(255, 255, 255, 0.04);
+
+  --card-shadow-pressed: inset 6px 6px 12px #d1d1d1, inset -6px -6px 12px #ffffff;
+  --glass-background: rgba(255, 255, 255, 0.7);
 }
 
 html {
