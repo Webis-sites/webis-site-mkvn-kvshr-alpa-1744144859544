@@ -50,6 +50,12 @@
 
   --card-shadow-pressed: inset 6px 6px 12px #d1d1d1, inset -6px -6px 12px #ffffff;
   --glass-background: rgba(255, 255, 255, 0.7);
+
+  --shadow-color: rgba(150, 206, 180, 0.15);
+  --card-blur: 10px;
+  --border-radius-lg: 1.5rem;
+  --border-radius-md: 1rem;
+  --shadow-neumorphic-inset: inset 6px 6px 12px #d1d1d1, inset -6px -6px 12px #ffffff;
 }
 
 html {
