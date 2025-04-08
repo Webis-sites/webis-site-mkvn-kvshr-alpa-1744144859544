@@ -59,6 +59,9 @@
 
   --cta-border-radius: 1rem;
   --cta-transition-speed: 0.3s;
+
+  --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --glassmorphism: rgba(255, 255, 255, 0.7);
 }
 
 html {
