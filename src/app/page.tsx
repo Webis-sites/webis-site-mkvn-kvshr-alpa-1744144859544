@@ -16,6 +16,7 @@ import LocationMap from '../components/LocationMap';
 import CTASection from '../components/CTASection';
 import Footer from '../components/Footer';
 import NutritionSection from '../components/NutritionSection';
+import SuccessStories from '../components/SuccessStories';
 
 export default function HomePage() {
   return (
@@ -37,6 +38,7 @@ export default function HomePage() {
     <CTASection />
     <Footer />
     <NutritionSection />
+    <SuccessStories />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
