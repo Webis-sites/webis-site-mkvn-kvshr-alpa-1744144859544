@@ -122,10 +122,8 @@ const Footer: React.FC = () => {
                 { name: 'בלוג', path: '/blog' },
               ].map((link, index) => (
                 <li key={index}>
-                  <Link href={link.path}>
-                    <a className="text-gray-600 hover:text-primary transition-colors duration-300 block py-1">
-                      {link.name}
-                    </a>
+                  <Link href={link.path} className="text-gray-600 hover:text-primary transition-colors duration-300 block py-1">
+                    {link.name}
                   </Link>
                 </li>
               ))}
@@ -211,14 +209,14 @@ const Footer: React.FC = () => {
               © {currentYear} מכון כושר אלפא. כל הזכויות שמורות.
             </p>
             <div className="flex space-x-6 space-x-reverse text-sm">
-              <Link href="/terms">
-                <a className="text-gray-500 hover:text-primary transition-colors duration-300">תנאי שימוש</a>
+              <Link href="/terms" className="text-gray-500 hover:text-primary transition-colors duration-300">
+                תנאי שימוש
               </Link>
-              <Link href="/privacy">
-                <a className="text-gray-500 hover:text-primary transition-colors duration-300">מדיניות פרטיות</a>
+              <Link href="/privacy" className="text-gray-500 hover:text-primary transition-colors duration-300">
+                מדיניות פרטיות
               </Link>
-              <Link href="/accessibility">
-                <a className="text-gray-500 hover:text-primary transition-colors duration-300">נגישות</a>
+              <Link href="/accessibility" className="text-gray-500 hover:text-primary transition-colors duration-300">
+                נגישות
               </Link>
             </div>
           </div>
