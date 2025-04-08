@@ -1,11 +1,108 @@
 {
-  "timestamp": "2025-04-08T20:41:26.673Z",
+  "timestamp": "2025-04-08T20:42:54.256Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 16,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Site navigation with logo and mobile menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with gym branding, headline, and primary CTA"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of gym services with icons and descriptions"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "About the gym, its history, values and expertise"
+    },
+    {
+      "name": "FacilitiesGallery",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of gym facilities and equipment"
+    },
+    {
+      "name": "MembershipPlans",
+      "type": "pricing",
+      "status": "pending",
+      "description": "Gym membership options and pricing tiers"
+    },
+    {
+      "name": "TrainersSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Showcase of professional trainers and their expertise"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Client testimonials and success stories"
+    },
+    {
+      "name": "ClassSchedule",
+      "type": "schedule",
+      "status": "pending",
+      "description": "Weekly class schedule with filtering options"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Class and trainer booking system with form"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the gym"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "pending",
+      "description": "Gym location with map integration"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action section for membership signup"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, contact info and social media"
+    },
+    {
+      "name": "NutritionSection",
+      "type": "nutrition",
+      "status": "pending",
+      "description": "Nutrition services and meal planning options"
+    },
+    {
+      "name": "SuccessStories",
+      "type": "success-stories",
+      "status": "pending",
+      "description": "Transformation stories with before/after results"
+    }
+  ],
   "repoName": "webis-site-mkvn-kvshr-alpa-1744144859544"
 }
