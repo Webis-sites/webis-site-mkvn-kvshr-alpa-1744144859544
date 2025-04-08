@@ -8,6 +8,12 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #96CEB4;
   --secondary-color: #ffffff;
+
+  --shadow-button: 0 4px 10px rgba(150, 206, 180, 0.3);
+  --shadow-nav: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --border-radius-button: 9999px;
+  --glass-opacity: 0.8;
+  --glass-blur: 10px;
 }
 
 html {
