@@ -17,7 +17,10 @@
     "react-scroll": "^1.8.9",
     "tailwindcss": "^3.3.3",
     "@types/react-scroll": "^1.8.7",
-    "clsx": "^2.0.0"
+    "clsx": "^2.0.0",
+    "react-hook-form": "^7.45.4",
+    "react-datepicker": "^4.16.0",
+    "date-fns": "^2.30.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
