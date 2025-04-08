@@ -29,6 +29,12 @@
   --glass-bg: rgba(255, 255, 255, 0.7);
   --glass-border: 1px solid rgba(255, 255, 255, 0.5);
   --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+
+  --shadow-neomorphic: 12px 12px 24px #e2e8f0, -12px -12px 24px #ffffff;
+  --shadow-neomorphic-dark: 12px 12px 24px rgba(0, 0, 0, 0.5), -12px -12px 24px rgba(255, 255, 255, 0.05);
+  --glassmorphism-bg-dark: rgba(45, 55, 72, 0.8);
+  --glassmorphism-blur: 10px;
+  --transition-standard: 0.3s ease;
 }
 
 html {
