@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-08T20:56:38.372Z",
+  "projectDir": "מכון-כושר-אלפא-4859",
   "status": {
     "totalComponents": 16,
-    "completedComponents": 15,
+    "completedComponents": 16,
     "failedComponents": 0,
-    "progress": 94
+    "progress": 100
   },
   "components": [
     {
@@ -100,9 +100,14 @@
     {
       "name": "SuccessStories",
       "type": "success-stories",
-      "status": "pending",
+      "status": "completed",
       "description": "Transformation stories with before/after results"
     }
   ],
-  "repoName": "webis-site-mkvn-kvshr-alpa-1744144859544"
+  "tokenUsage": {
+    "totalInputTokens": 31029,
+    "totalOutputTokens": 45221,
+    "totalTokens": 76250,
+    "requests": 16
+  }
 }
