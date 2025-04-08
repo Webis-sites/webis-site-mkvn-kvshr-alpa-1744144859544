@@ -56,6 +56,9 @@
   --border-radius-lg: 1.5rem;
   --border-radius-md: 1rem;
   --shadow-neumorphic-inset: inset 6px 6px 12px #d1d1d1, inset -6px -6px 12px #ffffff;
+
+  --cta-border-radius: 1rem;
+  --cta-transition-speed: 0.3s;
 }
 
 html {
